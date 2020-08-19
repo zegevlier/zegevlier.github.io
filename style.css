@@ -1,0 +1,21 @@
+BODY		{
+		SCROLLBAR-3DLIGHT-COLOR: #5C636D;
+		SCROLLBAR-ARROW-COLOR: #5C636D;
+		SCROLLBAR-FACE-COLOR: #5C636D;
+		SCROLLBAR-DARKSHADOW-COLOR: #5C636D;
+		SCROLLBAR-SHADOW-COLOR: #000000;
+		SCROLLBAR-HIGHLIGHT-COLOR: #000000;
+		SCROLLBAR-TRACK-COLOR: #000000;
+		background-color: #000000;
+		}
+
+A:link          {color:eeeeee; text-decoration:none; font-weight:bold;} 
+A:active        {color:aa0000; text-decoration:underline; font-weight:bold;}
+A:visited       {color:aaaaaa; text-decoration:none; font-weight:bold;}
+A:hover         {color:faebd7; text-decoration:underline; font-weight:bold;} 
+
+input.blacksub	{background-color: #000000; font-weight: none; font-size: 10px; color: eeeeee;}
+select.tan	{background-color: #faebd7; font-family: Times New Roman; font-size: 10px;}
+option.tan	{background-color: #faebd7; font-family: Times New Roman; font-size: 14px;}
+
+.action		{font-style: italic; color: FF0000;}
